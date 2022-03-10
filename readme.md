@@ -75,3 +75,9 @@ lol|218|3
 
   }
 ```
+
+```bash
+   sudo su
+   echo "哈哈哈哈“
+   cd "path"
+```
