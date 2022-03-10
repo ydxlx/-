@@ -88,3 +88,8 @@ lol|218|3
 
 [百度搜索](https://www.baidu.com "跳转到百度")
 
+
+## 问章中插入图片
+
+![wallPaper](https://s2.loli.net/2022/03/10/Pjaf195DIsO27Eo.jpg "李现")
+
