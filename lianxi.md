@@ -53,9 +53,17 @@
 3. 呵呵哈哈哈
 
 ## 超链接
+[百度](https://www.baidu.com "跳转到百度")
+[bibi](https://www.bilibili.com "跳转到bilibili")
 
 ## 插入代码片段
 
+```c
+
+hello world!
+
+```
 ## 表格效果
 
 ## 文章中插入图片
+![神厨小福贵](https://s2.loli.net/2022/03/11/6P7mRvyEVltD8Bu.png "喜欢看的动画片“)
